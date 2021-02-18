@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+ }
+ 
+ body{
+  background-color: #8c3208;
+  background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+ }
+h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 700%;
+   color:#cba7e9;
+}
