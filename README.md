@@ -1,3 +1,5 @@
+# Developer Notes
+I used React, Robohash.org and jsonplaceholder.com to create this project. The robo hash images were becoming extra blury when a size limit was placed on it. This is why cards are extra large when viewed in fullscreen mode. Ideal window size for this project is medium or smaller.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
