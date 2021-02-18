@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Robot-List/static/css/main.2839f376.chunk.css",
+    "main.js": "/Robot-List/static/js/main.d7c35248.chunk.js",
+    "main.js.map": "/Robot-List/static/js/main.d7c35248.chunk.js.map",
+    "runtime-main.js": "/Robot-List/static/js/runtime-main.52649091.js",
+    "runtime-main.js.map": "/Robot-List/static/js/runtime-main.52649091.js.map",
+    "static/js/2.d8f29723.chunk.js": "/Robot-List/static/js/2.d8f29723.chunk.js",
+    "static/js/2.d8f29723.chunk.js.map": "/Robot-List/static/js/2.d8f29723.chunk.js.map",
+    "static/js/3.8071f5e5.chunk.js": "/Robot-List/static/js/3.8071f5e5.chunk.js",
+    "static/js/3.8071f5e5.chunk.js.map": "/Robot-List/static/js/3.8071f5e5.chunk.js.map",
+    "index.html": "/Robot-List/index.html",
+    "static/css/main.2839f376.chunk.css.map": "/Robot-List/static/css/main.2839f376.chunk.css.map",
+    "static/js/2.d8f29723.chunk.js.LICENSE.txt": "/Robot-List/static/js/2.d8f29723.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52649091.js",
+    "static/js/2.d8f29723.chunk.js",
+    "static/css/main.2839f376.chunk.css",
+    "static/js/main.d7c35248.chunk.js"
+  ]
+}
